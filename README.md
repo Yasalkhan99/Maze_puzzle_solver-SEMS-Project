@@ -26,8 +26,7 @@ Key Features:
 
 ## 🎥 Live Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/<YOUTUBE_VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<YOUTUBE_VIDEO_ID>)
-
+▶️ [Click here to watch the project demo video](https://github.com/Yasalkhan99/HEX-AI_Maze_puzzle_solver-SEMS-Project/raw/main/project_demo.mkv)
 ---
 
 ## 🧠 Algorithms Used
@@ -43,9 +42,8 @@ Key Features:
 ## 🖼️ UI Preview
 
 <p align="center">
-  <img src="<URL_TO_SCREENSHOT>" alt="Maze Solver Preview" width="500"/>
+  <img src="ss.png" alt="Maze Puzzle Screenshot" width="600"/>
 </p>
-
 ---
 
 ## 🧰 Tech Stack
