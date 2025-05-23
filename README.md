@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Maze Puzzle Solver - SEMS Project 🔍</h1>
+<h1 align="center">🧩 HEX AI Maze Puzzle Solver - SEMS Project 🔍</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/Yasalkhan99" width="100" />
